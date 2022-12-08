@@ -1,4 +1,3 @@
-function sum () {
+function sum (): any {
   return {}
 }
-
