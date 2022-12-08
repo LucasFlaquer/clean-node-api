@@ -1,0 +1,23 @@
+{
+  "name": "clean-node-api",
+  "version": "1.0.0",
+  "description": "Clean Node API created for study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasFlaquer/clean-node-api.git"
+  },
+  "keywords": [
+    "CleanCode",
+    "CleanArchitecture"
+  ],
+  "author": "Lucas Flaquer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasFlaquer/clean-node-api/issues"
+  },
+  "homepage": "https://github.com/LucasFlaquer/clean-node-api#readme"
+}
