@@ -8,7 +8,7 @@
     "lint": "eslint src --ext .ts"
   },
   "lint-staged": {
-    "*.ts": ["eslint src --ext .ts"]
+    "*.ts": ["npm run lint"]
   },
   "husky": {
     "hooks": {
