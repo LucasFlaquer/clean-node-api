@@ -1,3 +1,5 @@
-function sum (): any {
-  return {}
+function sum(): any {
+  console.log('teste')
 }
+
+sum()
